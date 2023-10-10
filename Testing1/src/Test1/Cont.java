@@ -15,7 +15,7 @@ public class Cont {
 		System.out.println("three parametrized contuctor");
 	}
 	public static void main(String[] args) {
-		//Cont ob=new Cont(44,56,55);
+		Cont ob=new Cont(44,56,55);
 		Cont ob2=new Cont(56,85);
 		Cont ob3=new Cont();
 		

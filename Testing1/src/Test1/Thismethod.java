@@ -6,8 +6,8 @@ public class Thismethod {
 	{
 		this.m3();
 		System.out.println("M1 method");
-		this.m2();
 		this.m4();
+		this.m2();
 	}
 	public void m2()
 	{

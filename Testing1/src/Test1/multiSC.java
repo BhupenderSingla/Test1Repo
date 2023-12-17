@@ -1,5 +1,5 @@
 package Test1;
-//for result of (((((a+b)+c)-d)*e)/f)
+//for result of (((((a+b)+c)-d)*e)/f)//
 import java.util.Scanner;
 
 public class multiSC {

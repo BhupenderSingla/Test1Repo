@@ -19,7 +19,7 @@ public class Debug {
 		ob.m2();
 		System.out.println("Main Method line 3");
 		
-		multi ob9=new multi();//has a relation
+		multi ob9=new multi();//has a relation(calling method f another calss by creating object of that class)
 		ob9.summ(45,56);
 		
 	}
